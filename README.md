@@ -1,4 +1,4 @@
-<p>Hi, I'm Leonardo Emanuele Colecchia. Hobbyst coder, huge The Legend of Zelda fan and FiveM scripter.</p>
+<p>Hi, I'm Leonardo Emanuele. Hobbyst coder, huge "The Legend of Zelda" fan and FiveM scripter.</p>
 
 ### 💻 Languages I have used
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
